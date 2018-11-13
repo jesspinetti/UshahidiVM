@@ -8,6 +8,9 @@
     1. [Interacting with the Ushahidi API](#interacting-with-the-ushahidi-api)
     2. [Accessing the Ushahidi Website](#accessing-the-ushahidi-website)
     3. [Interacting with the the Ushahidi Website](#interacting-with-the-the-ushahidi-website)
+    
+3. **Troubleshooting**
+    1. [How to Fix an Error] (#how-to-fix-an-error)
 
 
 # Setup and run the Virtual Machine #
