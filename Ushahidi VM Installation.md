@@ -38,7 +38,7 @@
 
     a.  The VM requires two networks - a NAT network and a Host-Only network
 
-    b.  Select “Global Tools” and ensure that there is a Host-Only network created. If there is not one, create one with the default settings that VirtualBox provides.
+    b.  In manager window: File > Preferences > Select Network (list on left side) > Host-Only Tab > Select the green + button (top             left).
 
     c.  The list will now display the newly created Host-only network, click on the check mark box listed under “DHCP Server”.
 
